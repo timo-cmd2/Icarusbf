@@ -7,6 +7,10 @@
 *.obj
 *.elf
 
+# Asm includes
+*.inc
+includes/*.inc
+
 # Linker output
 *.ilk
 *.map
